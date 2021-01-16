@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+body{
+  background:url("./background.jpg");
+}
+
+h1, h2, h3, h4, .row{
+  font-family: 'Raleway', sans-seri
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: "C:/Users/Deirdre Walsh/Documents/cs322 background images/" 
+}
+
+.b{
+  height: 60px;
+  line-height: 60px;  
+  width: 60px;  
+  border-radius: 50%;
+  background-color: #ec1c24;
+  text-align: center;
+  cursor: pointer;
+  margin:2%;
+  font-family: 'Roboto', sans-serif;
+  border: solid 3px black;
+}
+
+.b1{
+  background-color: #ec1c24 !important;
+  border: solid black 3px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.loading{
+
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.genre{
+  width: 300px;
+  height: auto;
+}
+.controls{
+  width: 40px;
+}
+
+.wrapper{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  text-align: center;
+  display: inline-block;
+}
+
+.dot {
+  height: 60px;
+  width: 60px;
+  background-color: #ec1c24;
+  border-radius: 50%;
+  display: inline-block;
+  padding-top: 10px;
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.record {
+  width: 120px;
+}
+
+.form{
+  text-align: center !important;
+  background-color: white;
+  border-radius: 5px;
+  border: solid #ec1c24 2px;
+}
+
+@media only screen and (max-width: 600px) {
+  .wrapper{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+  }
+  
+  .dot {
+    height: 60px;
+    width: 60px;
+    background-color: #ec1c24;
+    border-radius: 50%;
+    display: inline-block;
+    padding-top: 10px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .record {
+    width: 100px;
+  }  
+  .form{
+    width: 90%;
+    text-align: center;
+  }
+}
+.title{
+  display: inline-block;
+}
+
+.navbar{
+  background:#343a40;
+}
+
+.logo{
+  background:#343a40;
+  width: 15%;
+}
+
+.green{
+  color: green;
+}
+
+.red{
+  color: #ec1c24;  
+}
+
+.about{
+  width: 300px;
+}
+
+.title{
+  margin:3%;
+  margin-bottom: 0%;
+  font-family: 'Raleway', sans-serif;
+}
+.desc{
+  margin:3%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.row{
+  margin: 1%;
+}
+
+.right
+{
+  transform: scaleX(-1);
+}

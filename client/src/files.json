@@ -1,0 +1,340 @@
+{
+    "pop": [
+	{
+		"title":"Call Me Maybe",
+		"artist":"Carly Rae Jepsen",
+		"id":"fWNaR-rxAic",
+		"genre":"pop"
+	},
+	{
+		"title":"Party Rock Anthem",
+		"artist":"LMFAO",
+		"id":"Coq-OlEdZQ8",
+		"genre":"pop"
+	},
+	{
+		"title":"Somebody That I Used To Know",
+		"artist":"Gotye",
+		"id":"8UVNT4wvIGY",
+		"genre":"pop"
+	},
+	{
+		"title":"Sugar",
+		"artist":"Maroon 5",
+		"id":"N1BcpzPGlYQ",
+		"genre":"pop"
+	},
+	{
+		"title":"All Star",
+		"artist":"Smash Mouth",
+		"id":"5ZYgIrqELFw",
+		"genre":"pop"
+	},
+	{
+		"title":"Sorry",
+		"artist":"Justin Bieber",
+		"id":"8ELbX5CMomE",
+		"genre":"pop"
+	},
+	{
+		"title":"Toxic",
+		"artist":"Britney Spears",
+		"id":"LOZuxwVk7TU",
+		"genre":"pop"
+	},
+	{
+		"title":"The Way You Make Me Feel",
+		"artist":"Michael Jackson",
+		"id":"0neY33G1emQ",
+		"genre":"pop"
+	},
+	{
+		"title":"Uptown Funk",
+		"artist":"Mark Ronson",
+		"id":"OPf0YbXqDm0",
+		"genre":"pop"
+	},
+	{
+		"title":"Get Lucky",
+		"artist":"Daft Punk",
+		"id":"XkeIwhKIi84",
+		"genre":"pop"
+	},
+	{
+		"title":"You Belong With Me",
+		"artist":"Taylor Swift",
+		"id":"VuNIsY6JdUw",
+		"genre":"pop"
+	},
+	{
+		"title":"Last Friday Night (T.G.I.F)",
+		"artist":"Katy Perry",
+		"id":"aJwrP501Msw",
+		"genre":"pop"
+	},
+	{
+		"title":"Thinking Out Loud",
+		"artist":"Ed Sheeran",
+		"id":"lp-EO5I60KA",
+		"genre":"pop"
+	},
+	{
+		"title":"Chandelier",
+		"artist":"Sia",
+		"id":"wctHelpInEc",
+		"genre":"pop"
+	},
+	{
+		"title":"Greatest Day",
+		"artist":"Take That",
+		"id":"d9kiR4UxLtM",
+		"genre":"pop"
+	},
+	{
+		"title":"What Makes You Beautiful",
+		"artist":"One Direction",
+		"id":"CjPc8RVJ0Dc",
+		"genre":"pop"
+	}
+	],
+    "hiphop": [
+	{
+		"title":"Gangsta's Paradise",
+		"artist":"Coolio",
+		"id":"fcsvE1zv1ek",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Rapper's Delight",
+		"artist":"The Sugarhill Gang",
+		"id":"bilnUxbp3co",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Nuthin But A G Thang",
+		"artist":"Dr. Dre",
+		"id":"6xjRdBjmePQ",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Harder Than You Think",
+		"artist":"Public Enemy",
+		"id":"L4EDy6wTOsg",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Hypnotize",
+		"artist":"The Notorious B.I.G.",
+		"id":"mUEhQ48sCqU",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Lose Yourself",
+		"artist":"Eminem",
+		"id":"tR1ECf4sEpw",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Homecoming",
+		"artist":"Kanye West",
+		"id":"LQ488QrqGE4",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Black Skinhead",
+		"artist":"Kanye West",
+		"id":"eHuNBHTY920",
+		"genre":"hiphop"
+	},
+	{
+		"title":"99 Problems",
+		"artist":"Jay-Z",
+		"id":"6uikJTnmtgw",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Push It",
+		"artist":"Salt-N-Pepa",
+		"id":"vCadcBR95oU",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Hey Ya",
+		"artist":"OutKast",
+		"id":"M2l6Q3HdUXU",
+		"genre":"hiphop"
+	},
+	{
+		"title":"This Is America",
+		"artist":"Childish Gambino",
+		"id":"VYOjWnS4cMY",
+		"genre":"hiphop"
+	},
+	{
+		"title":"Lost Ones",
+		"artist":"Lauryn Hill",
+		"id":"NdNFFC0p7N4",
+		"genre":"hiphop"
+	}
+],
+"rock": [
+	{
+		"title":"Dreams",
+		"artist":"The Cranberries",
+		"id":"Yam5uK6e-bQ",
+		"genre":"rock"
+	},
+	{
+		"title":"Strawberry Fields Forever",
+		"artist":"The Beatles",
+		"id":"HtUH9z_Oey8",
+		"genre":"rock"
+	},
+	{
+		"title":"Born In The USA",
+		"artist":"Bruce Springsteen",
+		"id":"lZD4ezDbbu4",
+		"genre":"rock"
+	},
+	{
+		"title":"Summer of '69",
+		"artist":"Bryan Adams",
+		"id":"eFjjO_lhf9c",
+		"genre":"rock"
+	},
+	{
+		"title":"Clocks",
+		"artist":"Coldplay",
+		"id":"PFW2uSCZ0uE",
+		"genre":"rock"
+	},
+	{
+		"title":"Friday I'm In Love",
+		"artist":"The Cure",
+		"id":"_1RYVmLFaK8",
+		"genre":"rock"
+	},
+	{
+		"title":"Heroes",
+		"artist":"David Bowie",
+		"id":"lXgkuM2NhYI",
+		"genre":"rock"
+	},
+	{
+		"title":"I'm Still Standing",
+		"artist":"Elton John",
+		"id":"ZHwVBirqD2s",
+		"genre":"rock"
+	},
+	{
+		"title":"Don't Stop",
+		"artist":"Fleetwood Mac",
+		"id":"SybgWaQy7_c",
+		"genre":"rock"
+	},
+	{
+		"title":"Chelsea Dagger",
+		"artist":"The Fratellis",
+		"id":"7hyXWpICWgQ",
+		"genre":"rock"
+	},
+	{
+		"title":"I want To Break Free",
+		"artist":"Queen",
+		"id":"WUOtCLOXgm8",
+		"genre":"rock"
+	},
+	{
+		"title":"Don't Look Back In Anger",
+		"artist":"Oasis",
+		"id":"cmpRLQZkTb8",
+		"genre":"rock"
+	},
+	{
+		"title":"Comfortably Numb",
+		"artist":"Pink Floyd",
+		"id":"x-xTttimcNk",
+		"genre":"rock"
+	},
+	{
+		"title":"Sunday Bloody Sunday",
+		"artist":"U2",
+		"id":"CkeDjLZMRRk",
+		"genre":"rock"
+	},
+	{
+		"title":"Blue Orchid",
+		"artist":"The White Stripes",
+		"id":"WmCNf7P7YTA",
+		"genre":"rock"
+	},
+	{
+		"title":"Clint Eastwood",
+		"artist":"Gorillaz",
+		"id":"I7yqFVEvdY0",
+		"genre":"rock"
+	}
+],
+"electro": [
+	{
+		"title":"Around The World",
+		"artist":"Daft Punk",
+		"id":"dwDns8x3Jb4",
+		"genre":"electro"
+	},
+	{
+		"title":"Acceptable In The 80's",
+		"artist":"Calvin Harris",
+		"id":"dOV5WXISM24",
+		"genre":"electro"
+	},
+	{
+		"title":"Galvanize",
+		"artist":"The Cheimcal Brothers",
+		"id":"TXUZwNRYJYo",
+		"genre":"electro"
+	},
+	{
+		"title":"Blue",
+		"artist":"Eiffel 65",
+		"id":"zA52uNzx7Y4",
+		"genre":"electro"
+	},
+	{
+		"title":"One More Time",
+		"artist":"Daft Punk",
+		"id":"FGBhQbmPwH8",
+		"genre":"electro"
+	},
+	{
+		"title":"We Are Your Friends",
+		"artist":"Justice",
+		"id":"nr90nbqxuZk",
+		"genre":"electro"
+	},
+	{
+		"title":"Levels",
+		"artist":"Avicii",
+		"id":"EgxHqMpK1Nw",
+		"genre":"electro"
+	},
+	{
+		"title":"Terminal Slam",
+		"artist":"Squarepusher",
+		"id":"GlhV-OKHecI",
+		"genre":"electro"
+	},
+	{
+		"title":"T69 Collapse",
+		"artist":"Aphex Twin",
+		"id":"SqayDnQ2wmw",
+		"genre":"electro"
+	},
+	{
+		"title":"Midnight City",
+		"artist":"M83",
+		"id":"dX3k_QDnzHE",
+		"genre":"electro"
+	}
+]
+}
